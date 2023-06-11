@@ -10,12 +10,21 @@ just open the tool and answer the questions.
 download before using it
 
 pip install google
+
 pip install beautifulsoup4
+
 pip install protobuf
+
 pip install google-api-core
+
 pip install google-cloud-vision
+
 pip install google.cloud.bigquery
+
 pip install google.cloud.storage 
+
 pip install google-cloud
+
 pip install --upgrade google-api-python-client
+
  
