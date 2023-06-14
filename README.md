@@ -28,4 +28,6 @@ download before using it
 
 9- pip install --upgrade google-api-python-client
 
+10- pip install google-search
+ 
  
