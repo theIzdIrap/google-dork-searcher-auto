@@ -1,3 +1,4 @@
+#!/usr/bin/python
 a = input("the word u wanna search for : ")
 b = input("Which domain u searching for (e.g. google.com google.co.in) write a com,org,tk or something : ")
 c = int(input("How many results you want MIN : "))
